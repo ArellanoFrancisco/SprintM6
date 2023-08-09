@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Plaplix</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">Lista de Telefonos</string>
+    <string name="second_fragment_label">Detalles de Telefonos</string>
+    <string name="Antes">Antes $ %1$d</string>
+    <string name="Ahora">Ahora $ %1$d</string>
+    <string name="NameTitle"> %1$s </string>
+    <string name="Contacto">Contactar Area de Ventas</string>
+    <string name="True">Acepta Crédito</string>
+    <string name="False">Sólo Efectivo</string>
+    <string name="Description">Especificaciones:     \n\n%1$s </string>
+    <string name="NameRv"> %1$s </string>
+    <string name="PriceRv">$ %1$d</string>
+    <string name="snack">Debes Seleccionar un telefono</string>
+</resources>

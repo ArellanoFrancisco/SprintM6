@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.SprintM6" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/PRIMARYCOLOR</item>
+        <item name="colorPrimaryDark">@color/DARKPRIMARYCOLOR</item>
+        <item name="colorOnSecondary">@color/LIGHTPRIMARYCOLOR</item>
+        <item name="dividerColor">@color/DIVIDERCOLOR</item>
+        <item name="android:textColorSecondary">@color/black</item>
+        <item name="android:colorAccent">@color/ACCENTCOLOR</item>
+
+    </style>
+
+    <style name="Theme.SprintM6" parent="Base.Theme.SprintM6" />
+</resources>

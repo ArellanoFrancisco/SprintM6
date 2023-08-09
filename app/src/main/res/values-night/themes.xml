@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SprintM6" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/PRIMARYCOLOR</item>
+        <item name="colorPrimaryDark">@color/DARKPRIMARYCOLOR</item>
+        <item name="colorOnSecondary">@color/LIGHTPRIMARYCOLOR</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="dividerColor">@color/DIVIDERCOLOR</item>
+        <item name="android:textColorSecondary">@color/SECUNDARYCOLOR</item>
+        <item name="android:colorAccent">@color/ACCENTCOLOR</item>
+    </style>
+</resources>
